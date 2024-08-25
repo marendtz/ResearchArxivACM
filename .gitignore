@@ -1,0 +1,11 @@
+venv/*
+*.zip
+__pycache__/
+*.pdf
+*.xlsx
+*.pkl
+arxiv/data/*
+arxiv/out/*
+acm/data/*
+acm/out/*
+

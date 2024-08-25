@@ -1,0 +1,7 @@
+arxiv
+requests
+pandas
+numpy
+matplotlib
+datetime
+openpyxl
